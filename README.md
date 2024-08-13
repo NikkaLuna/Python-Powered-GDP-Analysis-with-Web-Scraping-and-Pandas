@@ -71,9 +71,11 @@ Use code with caution.
 ### SSL Certificate Verification Issue
 
 **Challenge:**  
+
 While running the script on macOS with Python 3.12.1, an SSL certificate verification error was encountered. This error was due to an outdated or missing SSL certificate chain, causing the script to fail when attempting to access HTTPS resources.
 
 **Solution:**  
+
 To resolve this issue, I needed to update the SSL certificate manually. The following command was executed in the terminal to update the SSL certificates for Python 3.12:
 
 ```bash
