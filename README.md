@@ -1,4 +1,4 @@
-# Python-Powered GDP Analysis with Web Scraping and Pandas
+# Python Powered GDP Analysis with Web Scraping and Pandas
 
 This project is a Python-based data extraction and processing script developed to extract, process, and analyze data on the top 10 largest economies in the world by GDP (in Billion USD), as reported by the International Monetary Fund (IMF). The script utilizes web scraping, data processing using Pandas, and mathematical operations with NumPy to achieve this.
 
